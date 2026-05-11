@@ -4,56 +4,55 @@ body {
     color: white;
 }
 
-/* NAVBAR LOGO */
+
 .navbar-brand img {
-    width: 180px;   /* bigger logo */
+    width: 180px;   
     height: auto;
 }
 
-/* NAV LINKS */
+
 .nav-link {
-    color: white !important;
+    color: white;
     font-weight: bold;
-    font-size: 1.2rem;  /* bigger nav text */
+    font-size: 1.2rem; 
 }
 
 .nav-link:hover {
-    color: #fdb927 !important;
+    color: #fdb927 ;
 }
 
-/* MAIN TITLE */
 h1 {
     font-family: 'Anton', sans-serif;
-    font-size: 6rem;  /* bigger headline */
+    font-size: 6rem;  
     line-height: 1;
 }
 
-/* SUBTEXT */
+
 .subtext {
     font-weight: 300;
     margin-top: 10px;
-    font-size: 1.5rem; /* bigger */
+    font-size: 1.5rem; 
 }
 
-/* JERSEY NUMBER */
+
 .jersey-number {
-    font-size: 4rem; /* bigger impact */
+    font-size: 4rem; 
     font-weight: bold;
     color: #fdb927;
 }
 
-/* PLAYER IMAGE */
+
 .player-img {
     width: 100%;
-    max-width: 550px;  /* bigger image */
+    max-width: 550px;  
 }
 
-/* BUTTON */
+
 .btn-custom {
     background-color: #fdb927;
     color: #552583;
     border: none;
-    padding: 15px 35px;  /* bigger button */
+    padding: 15px 35px;  
     font-weight: bold;
     font-size: 1.2rem;
 }
