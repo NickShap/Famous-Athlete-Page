@@ -1,0 +1,63 @@
+body {
+    background-color: #552583;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+/* NAVBAR LOGO */
+.navbar-brand img {
+    width: 180px;   /* bigger logo */
+    height: auto;
+}
+
+/* NAV LINKS */
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+    font-size: 1.2rem;  /* bigger nav text */
+}
+
+.nav-link:hover {
+    color: #fdb927 !important;
+}
+
+/* MAIN TITLE */
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 6rem;  /* bigger headline */
+    line-height: 1;
+}
+
+/* SUBTEXT */
+.subtext {
+    font-weight: 300;
+    margin-top: 10px;
+    font-size: 1.5rem; /* bigger */
+}
+
+/* JERSEY NUMBER */
+.jersey-number {
+    font-size: 4rem; /* bigger impact */
+    font-weight: bold;
+    color: #fdb927;
+}
+
+/* PLAYER IMAGE */
+.player-img {
+    width: 100%;
+    max-width: 550px;  /* bigger image */
+}
+
+/* BUTTON */
+.btn-custom {
+    background-color: #fdb927;
+    color: #552583;
+    border: none;
+    padding: 15px 35px;  /* bigger button */
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.btn-custom:hover {
+    background-color: #e0a800;
+}
