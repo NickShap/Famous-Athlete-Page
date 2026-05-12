@@ -5,6 +5,10 @@ body {
 }
 
 
+.navbar-brand {
+    margin-left: -55px;
+}
+
 .navbar-brand img {
     width: 180px;   
     height: auto;
@@ -45,6 +49,7 @@ h1 {
 .player-img {
     width: 100%;
     max-width: 550px;  
+    margin-top: 20px;
 }
 
 
@@ -60,3 +65,10 @@ h1 {
 .btn-custom:hover {
     background-color: #e0a800;
 }
+
+.align-items-right {
+  justify-content:right bottom;
+  display: flex; 
+  align-items: flex-end; 
+}
+
